@@ -1,0 +1,8 @@
+alfred
+atom
+dockertoolbox
+maczip4win
+simpholders
+virtualbox
+visual-studio-code
+xquartz
