@@ -5,7 +5,7 @@ my dotfiles
 # install
 
 ```
-$ ./bootstrap.sh
+$ bash ./bootstrap.sh
 ```
 
 # References

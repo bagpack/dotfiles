@@ -1,8 +1,9 @@
+appcleaner
 alfred
 atom
-dockertoolbox
+docker
+iterm2
 maczip4win
-simpholders
 virtualbox
 visual-studio-code
 xquartz
