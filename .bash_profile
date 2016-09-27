@@ -23,3 +23,6 @@ if [ -d "${PYENV_ROOT}" ]; then
     eval "$(pyenv init -)"
     eval "$(pyenv virtualenv-init -)"
 fi
+
+# z
+source `brew --prefix`/etc/profile.d/z.sh

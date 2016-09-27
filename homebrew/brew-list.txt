@@ -16,3 +16,4 @@ sanemat/font/ricty
 tree
 watch
 wget
+z
