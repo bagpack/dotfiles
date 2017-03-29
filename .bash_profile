@@ -26,3 +26,6 @@ fi
 
 # z
 source `brew --prefix`/etc/profile.d/z.sh
+
+# direnv
+eval "$(direnv hook bash)"
