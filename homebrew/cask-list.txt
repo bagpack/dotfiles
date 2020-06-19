@@ -1,10 +1,16 @@
 appcleaner
 alfred
-atom
+boostnote
+charles
 docker
+fork
 google-chrome
+google-backup-and-sync
 google-japanese-ime
 iterm2
 maczip4win
+opensim
 visual-studio-code
 xquartz
+realm-studio
+android-studio
