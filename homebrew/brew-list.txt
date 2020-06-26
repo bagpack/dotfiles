@@ -1,5 +1,4 @@
 ansible
-bash
 ctags
 direnv
 gibo
@@ -15,5 +14,4 @@ rbenv
 sanemat/font/ricty
 tree
 watch
-wget
 z

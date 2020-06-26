@@ -21,5 +21,3 @@ do
     brew cask install $line
 done
 
-# Remove outdated versions from the cellar
-brew cask cleanup
